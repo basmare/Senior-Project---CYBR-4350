@@ -36,4 +36,4 @@ The **Data Breach Impact Estimator** is a PyQt5-based desktop application design
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Data-Breach-Impact-Estimator.git
+   git clone https://github.com/basmare/Senior-Project---CYBR-4350or.git
